@@ -1,0 +1,18 @@
+body{
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#bg{
+    height: 100vh;
+    background: linear-gradient(#e66465, #333);
+}
+
+#colorChange{
+    position: absolute;
+    top: 50%;
+    left: 45%;
+    height: 5%;
+    width: 10%;
+    box-shadow: 5px 5px 5px black;
+}
